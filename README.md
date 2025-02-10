@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @azenut
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Ciao, sono Nicola!
+💻 Sviluppatore Software | 🚀 Appassionato di Backend
 
-<!---
-azenut/azenut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔹 Tech Stack:
+
+ - 🐍 Python | 🏎️ Golang
+ - 🐳 Docker | 🛢️ PostgreSQL | 📜 SQLite
+ - 💡 Cosa faccio?
+ - Mi occupo di sviluppo backend, database e containerizzazione. Amo scrivere codice pulito ed efficiente, ottimizzare query e creare applicazioni scalabili.
+
+### 🔎 Cosa mi interessa?
+
+ - Architetture scalabili e distribuite
+ - Performance tuning su database
+ - DevOps e containerizzazione
